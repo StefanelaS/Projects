@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.DS_Store
+
+report/report.aux
+report/report.bbl
+report/report.blg
+report/report.log
+report/report.out
+
